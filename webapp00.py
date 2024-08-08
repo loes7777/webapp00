@@ -4,6 +4,6 @@ import pandas as pd
 import streamlit as st
 
 st.title("Olá, Massaki!")
-st.header (" Tuma 2EI-SESI")
+st.header (" Turma 2EI-SESI")
 st.subheader ("Este pessoal é fera!")
 st.write ("Vamos lá pesooal")
