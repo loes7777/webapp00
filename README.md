@@ -2,5 +2,6 @@
 ## Prof. Massaki Igarashi
 <a href="mailto:prof.massaki@gmail.com">e-mail: prof.massaki@gmail.com</a>
 
-#**Imtegrantes do grupo**
+#**Integrantes do grupo**
 - luisa
+- larissa
